@@ -1,0 +1,33 @@
+<projectDescription>
+  <id>1443336392163</id>
+  <name>ComengBrake</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/slarti/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/slarti/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh%20HD/Users/macbook/Dropbox/Flash/ComengBrake/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="BrakeValve.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/BrakeValve.as</uri>
+    <uri label="HelpIcon.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/HelpIcon.as</uri>
+    <uri label="ComengBrake.fla">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/ComengBrake.fla</uri>
+    <uri label="ToggleSwitch.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/ToggleSwitch.as</uri>
+    <uri label="Guage.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/Guage.as</uri>
+    <uri label="DrawingShapes.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/DrawingShapes.as</uri>
+    <uri label="BVIC.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/BVIC.as</uri>
+    <uri label="BrakeHandle.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/BrakeHandle.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/Main.as</uri>
+    <uri label="TripleValve.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/TripleValve.as</uri>
+    <uri label="GuagePointer.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/GuagePointer.as</uri>
+    <uri label="TimelineLite.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/com/greensock/TimelineLite.as</uri>
+    <uri label="GuagePointerRed.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/GuagePointerRed.as</uri>
+    <uri label="ComengBrake.swf">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/ComengBrake.swf</uri>
+    <uri label="GuagePointerWhite.as">file:///Macintosh HD/Users/macbook/Dropbox/Flash/ComengBrake/GuagePointerWhite.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
