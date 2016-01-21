@@ -1,1 +1,0 @@
-﻿package {	import flash.display.MovieClip;	import flash.events.Event;	public class GuagePointerWhite extends GuagePointer {		public function GuagePointerWhite() {			// constructor code			super();		}	}}
